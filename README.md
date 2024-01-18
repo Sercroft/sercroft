@@ -17,9 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end and Mobile developer.
-- Currently learning Web and Mobile Development by Self.
-- I’m currently open for an Intern or a new job opportunity.
+- A passionate Self-taught Front-end and Mobile developer
+- Currently learning Web and Mobile Development by Self
+- I’m currently open for a new job opportunity
 
 <br><br>
 
