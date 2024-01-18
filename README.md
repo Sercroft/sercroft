@@ -43,7 +43,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Front-End and Mobile Development**:
 
   [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
