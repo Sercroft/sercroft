@@ -46,8 +46,14 @@
   [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![SASS](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+  [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+  [![Material UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
   [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
   [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+  [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+  [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+  [![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+  [![Gradle](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev)
 
 <br>
 
