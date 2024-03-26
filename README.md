@@ -11,7 +11,7 @@
 
 
 
-- Software Developer and Systems Engineer
+- Software Developer graduated from Sena and Systems Engineer graduated from University Antonio Nariño 
 - I'm a highly creative and risk-taking individual committed to my work
 - I’m currently open for a new job opportunity ❤️💻❤️
 
