@@ -86,7 +86,7 @@
 
 <div align="center">
 
- [![Sercroft GitHub stats](https://github-readme-stats.vercel.app/api?username=sercroft&hide=stars,commits,prs,issues,contribs)](https://github.com/sercroft/github-readme-stats)
+ [![Sercroft](https://github-readme-stats.vercel.app/api/top-langs/?username=sercroft&layout=compact)](https://github.com/sercroft/github-readme-stats)
 </div>
 
 <br>
