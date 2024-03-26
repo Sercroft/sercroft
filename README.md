@@ -86,7 +86,7 @@
 
 <div align="center">
 
- [![Sercroft](https://github-readme-stats.vercel.app/api/top-langs/?username=sercroft&layout=compact)](https://github.com/sercroft/github-readme-stats)
+ [![Sercroft](https://github-readme-stats.vercel.app/api/top-langs/?username=sercroft&langs_count=8)](https://github.com/sercroft/github-readme-stats)
 </div>
 
 <br>
