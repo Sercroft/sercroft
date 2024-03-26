@@ -26,6 +26,15 @@
   </div>
 </div>
 
+<style>
+  @media only screen and (max-width: 600px) {
+    .text-container {
+      float: none;
+      width: auto;
+    }
+  }
+</style>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
