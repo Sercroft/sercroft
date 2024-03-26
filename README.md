@@ -85,7 +85,6 @@
 <br>
 
 <div align="center">
- [![Sercroft GitHub stats](https://github-readme-stats.vercel.app/api?username=sercroft&show_icons=true&theme=synthwave)](https://github.com/sercroft/github-readme-stats)
  [![Sercroft](https://github-readme-stats.vercel.app/api/top-langs/?username=sercroft&langs_count=8)](https://github.com/sercroft/github-readme-stats)
 </div>
 
