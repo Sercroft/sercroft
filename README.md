@@ -87,7 +87,7 @@
 <div align="center">
 
 <a href="https://github.com/Sercroft/">
- ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sercroft&show_icons=true)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercroft)](https://github.com/sercroft/github-readme-stats)
 
 </a>
 </div>
