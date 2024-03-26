@@ -89,7 +89,7 @@
 
  [![Sercroft](https://github-readme-stats.vercel.app/api/top-langs/?username=sercroft&langs_count=8&theme=dark)](https://github.com/sercroft/github-readme-stats)
 
- ![Sercroft GitHub stats](https://github-readme-stats.vercel.app/api?username=sercroft&show_icons=true&theme=synthwave)
+ ![Sercroft GitHub stats](https://github-readme-stats.vercel.app/api?username=sercroft&show_icons=true&theme=tokyonight)
  
 </div>
 
