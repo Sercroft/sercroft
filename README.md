@@ -15,9 +15,9 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- Software Developer graduated from Sena and Systems Engineer graduated from Antonio Nariño University.
-- I'm a highly creative and risk-taking individual committed to my work.
-- I’m currently open for a new job opportunity!
+- Software Developer graduated from Sena and Systems Engineer graduated from Antonio Nariño University 
+- I'm a highly creative and risk-taking individual committed to my work 
+- I’m currently open for a new job opportunity ❤️💻❤️
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
