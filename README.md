@@ -16,24 +16,10 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
-<div style="width: 100%;">
-  <div style="float: left; width: 100%;">
-
-- Software Developer graduated from Sena and Systems Engineer graduated from Antonio Nariño University
+- Software Developer and Systems Engineer
 - I'm a highly creative and risk-taking individual committed to my work
 - I’m currently open for a new job opportunity ❤️💻❤️
 
-  </div>
-</div>
-
-<style>
-  @media only screen and (max-width: 600px) {
-    .text-container {
-      float: none;
-      width: auto;
-    }
-  }
-</style>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
