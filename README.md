@@ -13,7 +13,7 @@
 
 - Passionate and committed software developer, with a solid academic and professional background in the technology area. I have more than 5 years of experience in Frontend and Mobile Development.
 - I'm a highly creative and risk-taking individual committed to my work.
-- I’m currently work in CredibanCO. ❤️💻❤️
+- I’m currently work in XpertGroup. ❤️💻❤️
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
