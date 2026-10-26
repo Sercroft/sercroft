@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Sebastián Castellanos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sebastián Castellanos - Mobile and Frontend Developer</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Love+Coding+&hearts;++;Front-End+and+Mobile+Developer;Systems+Engineer;Active+Learner/Researcher;Love+to+learn+new+stuffs...+&hearts"></a>
@@ -13,7 +13,7 @@
 
 - Passionate and committed software developer, with a solid academic and professional background in the technology area. I have more than 5 years of experience in Frontend and Mobile Development.
 - I'm a highly creative and risk-taking individual committed to my work.
-- I’m currently work in XpertGroup. ❤️💻❤️
+- Looking for new horizons! ❤️💻❤️
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
